@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aaditya Sharma</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img allign="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/481440/screenshots/3876295/monday.jpg?compress=1&resize=400x300">
@@ -15,8 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aaditya sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya sharma" height="30" width="40" /></a>
-<a href="https://fb.com/aadi sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aadi sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ aadityasharma47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ aadityasharma47" height="30" width="40" /></a>
 <a href="https://instagram.com/aadixs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadixs_" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadi-47&show_icons=true&locale=en" alt="aadi-47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-47&" alt="aadi-47" /></p>
+
+
 
