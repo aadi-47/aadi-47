@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi-47&label=Profile%20views&color=0e75b6&style=flat" alt="aadi-47" /> </p>
 
-- 🌱 I’m currently learning **jawa ,python and c#**
+- 🌱 I’m currently learning **java ,python and c#**
 
 - 💬 Ask me about **my passion and interest**
 
